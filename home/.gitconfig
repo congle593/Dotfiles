@@ -1,0 +1,9 @@
+[user]
+	name = Cong Le
+	email = contact@congle.info
+[color]
+	ui = auto
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main

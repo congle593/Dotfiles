@@ -1,0 +1,5 @@
+require 'charlie.settings'
+require 'charlie.keymaps'
+require 'charlie.plugins'
+require 'charlie.lsp'
+require 'charlie.components'
